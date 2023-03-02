@@ -1,4 +1,7 @@
 # sale_operation
+Sale's Project
+
+# Description
 In this project, you are going to simulate a sales and operations planning using the zero-stock level strategy. Write a Python program that asks the user to enter the following data:
 
 - An initial stock level for a product
